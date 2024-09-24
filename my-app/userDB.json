@@ -1,0 +1,126 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "age": 28,
+        "country": "USA",
+        "pic": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35af6a41332353.57a1ce913e889.jpg",
+        "description": "John is a software developer with a passion for open-source projects. He enjoys hiking and outdoor activities during the weekends. His dream is to work in a big tech company."
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "age": 34,
+        "country": "Canada",
+        "description": "Jane is a digital marketer with over 10 years of experience. She loves helping brands grow their online presence. In her free time, she practices yoga and explores photography."
+      },
+      {
+        "id": "3",
+        "name": "Carlos Gomez",
+        "email": "carlosgomez@example.com",
+        "age": 24,
+        "country": "Mexico",
+        "description": "Carlos is an up-and-coming graphic designer who specializes in branding and logos. He enjoys learning new design trends and is working towards opening his own design agency."
+      },
+      {
+        "id": "4",
+        "name": "Anna Ivanova",
+        "email": "annaivanova@example.com",
+        "age": 30,
+        "country": "Russia",
+        "description": "Anna is a data scientist with a background in mathematics. She loves analyzing data to uncover hidden trends and patterns. In her downtime, she enjoys classical music and chess."
+      },
+      {
+        "id": "5",
+        "name": "Chen Wei",
+        "email": "chenwei@example.com",
+        "age": 27,
+        "country": "China",
+        "description": "Chen is a front-end web developer specializing in JavaScript frameworks. He enjoys solving complex problems through coding. In his free time, he practices calligraphy and martial arts."
+      },
+      {
+        "id": "6",
+        "name": "Priya Patel",
+        "email": "priyapatel@example.com",
+        "age": 32,
+        "country": "India",
+        "description": "Priya is a UX/UI designer with a deep understanding of user behavior. She works with various tech startups to improve their user experience. She also enjoys cooking traditional Indian dishes."
+      },
+      {
+        "id": "7",
+        "name": "Ahmed Hassan",
+        "email": "ahmedhassan@example.com",
+        "age": 29,
+        "country": "Egypt",
+        "description": "Ahmed is a civil engineer with a strong passion for sustainable architecture. He’s committed to developing eco-friendly buildings. Outside of work, Ahmed enjoys reading about history and architecture."
+      },
+      {
+        "id": "8",
+        "name": "Sophia Muller",
+        "email": "sophiamuller@example.com",
+        "age": 25,
+        "country": "Germany",
+        "description": "Sophia is a content creator and influencer who focuses on travel and lifestyle. She has visited over 20 countries and shares her experiences through her blog and social media platforms."
+      },
+      {
+        "id": "9",
+        "name": "Maria Rodriguez",
+        "email": "mariarodriguez@example.com",
+        "age": 33,
+        "country": "Spain",
+        "description": "Maria is a marketing consultant with expertise in digital strategies for e-commerce. She helps businesses optimize their online sales. In her free time, she enjoys flamenco dancing and painting."
+      },
+      {
+        "id": "10",
+        "name": "Tommy Nguyen",
+        "email": "tommynguyen@example.com",
+        "age": 26,
+        "country": "Vietnam",
+        "description": "Tommy is a mobile app developer who focuses on creating innovative user experiences. He has a passion for learning about new technologies. When not coding, he enjoys playing basketball."
+      },
+      {
+        "id": "11",
+        "name": "Yuki Nakamura",
+        "email": "yukinakamura@example.com",
+        "age": 22,
+        "country": "Japan",
+        "description": "Yuki is a recent university graduate in robotics engineering. She dreams of working on cutting-edge AI projects. When she's not studying or working, Yuki enjoys playing the violin."
+      },
+      {
+        "id": "12",
+        "name": "Emily Brown",
+        "email": "emilybrown@example.com",
+        "age": 35,
+        "country": "UK",
+        "description": "Emily is a freelance writer and editor with a background in literature. She enjoys crafting compelling stories for both fiction and non-fiction. She also runs a book club in her town."
+      },
+      {
+        "id": "13",
+        "name": "Luca Bianchi",
+        "email": "lucabianchi@example.com",
+        "age": 31,
+        "country": "Italy",
+        "description": "Luca is a chef with a deep passion for Italian cuisine. He runs a popular restaurant in Rome and loves experimenting with traditional recipes. In his free time, he travels to find inspiration."
+      },
+      {
+        "id": "14",
+        "name": "Fatima Khan",
+        "email": "fatimakhan@example.com",
+        "age": 28,
+        "country": "Pakistan",
+        "description": "Fatima is a fashion designer who creates modern styles infused with traditional Pakistani elements. She’s known for her bold use of colors and patterns. She also enjoys teaching young designers."
+      },
+      {
+        "id": "15",
+        "name": "David O'Connor",
+        "email": "davidoconnor@example.com",
+        "age": 36,
+        "country": "Ireland",
+        "description": "David is a professional photographer with a keen eye for landscapes. He spends most of his time traveling and capturing the natural beauty of different countries. His work is often featured in galleries."
+      }
+    ]
+  }
+  
